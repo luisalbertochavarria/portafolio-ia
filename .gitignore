@@ -1,0 +1,5 @@
+# Este repositorio contiene solo el indice del portafolio.
+# Cada proyecto vive en su propio repositorio independiente.
+*
+!README.md
+!.gitignore
