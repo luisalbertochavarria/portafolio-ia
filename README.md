@@ -17,6 +17,13 @@ verifican contra una segunda fuente cuando es posible, y el resultado se puede r
 | [Agente de postulaciones laborales](03_agente-postulaciones-llm) | Agente que extrae ofertas de LinkedIn, las evalúa contra un currículum con un modelo de lenguaje y prioriza las postulaciones | Python, Streamlit, SQLite, Playwright, LLM |
 | [Pipeline de OCR y traducción](04_pipeline-traduccion-ocr) | Sistema web para convertir PDF a Markdown y traducir documentos y manga conservando la estructura, con procesamiento local | Python, FastAPI, PyMuPDF, CTranslate2, LLM local |
 
+## Demostraciones en línea
+
+Se pueden explorar en el navegador, sin instalar nada y con datos sintéticos:
+
+- **Simulador de flota eléctrica**: https://luisalbertochavarria.github.io/simulador-flota-electrica/
+- **Tablero operacional y económico**: https://luisalbertochavarria.github.io/dashboard-operacional-powerbi/
+
 ## Enfoque común
 
 - **Validación antes que resultado**: los números se cruzan contra una fuente independiente y se
