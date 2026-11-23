@@ -14,7 +14,6 @@ verifican contra una segunda fuente cuando es posible, y el resultado se puede r
 |---|---|---|
 | [Simulador operacional de flota eléctrica](02_simulador-flota-electrica) | Simulación de la operación diaria de una flota de buses eléctricos: autonomía, estado de carga, ventanas de recarga y verificación de la jornada siguiente | Python, Streamlit, Plotly, pandas |
 | [Dashboard operacional y económico](01_dashboard-operacional-powerbi) | Modelo analítico y tablero para el seguimiento de la programación de una unidad de transporte: kilómetros, flota, ingresos e indicadores de calidad | Power BI (.pbip), DAX, Power Query, Python |
-| [Agente de postulaciones laborales](03_agente-postulaciones-llm) | Agente que extrae ofertas de LinkedIn, las evalúa contra un currículum con un modelo de lenguaje y prioriza las postulaciones | Python, Streamlit, SQLite, Playwright, LLM |
 | [Pipeline de OCR y traducción](04_pipeline-traduccion-ocr) | Sistema web para convertir PDF a Markdown y traducir documentos y manga conservando la estructura, con procesamiento local | Python, FastAPI, PyMuPDF, CTranslate2, LLM local |
 
 ## Demostraciones en línea
